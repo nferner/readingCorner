@@ -3,7 +3,7 @@ Reading Corner is the Brainchild of Jason Tompa with technical and design suppor
 
 Reading Corner is designed to help the child with pronunciation, grammar and eventually to achieve a better understanding, if not mastery of the english language. (Add more info about what it is supposed to do).
 
-##Technologies used
+## Technologies used
 This will need to be filled out more as we progress. With my current knowledge base I can foresee the following with the caveat this should be native to mobile rather than web design.
 
 1. Javascript
@@ -46,7 +46,7 @@ This will need to be filled out more as we progress. With my current knowledge b
 
 13. Admin access - Create an admin access only page. Will need to map out what is needed and how we access. I have no idea how to do this...but hopefully it's easier than I think it is.
 
-##Questions/Next Steps/Foreseeable challenges
+## Questions/Next Steps/Foreseeable challenges
 1. I currently know how to make websites with a responsive design, but this application should be mobile native. Many people and children have access to phones and tablets rather than desktop computers or laptops. I currently have experience with javascript, react.js, node.js/express.js, html and css. My next step will be how to transfer that knowledge into mobile design.
 
 2. How does the voice recognition api work? I need to read the documentation.
@@ -63,11 +63,11 @@ This will need to be filled out more as we progress. With my current knowledge b
 
 6. What are some of the legal steps we need to take as we move forward with this projects? How to protect ourselves individually? How do we protect ourselves and our project?
 
-##Progress
+## Progress
 * Jason's Outline: (Input Jason's outline here)
 * Node map of Frontend: (Input png pic of node map)
 
-##Notes
+## Notes
   * To run your aoo on IOS:
    cd /Users/Nferner/Desktop/readingCorner/PropertyFinder
    react-native run-ios
