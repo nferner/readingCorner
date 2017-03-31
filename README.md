@@ -18,6 +18,7 @@ This will need to be filled out more as we progress. With my current knowledge b
 9. Babel
 10. Database - Firebase(allows me to be lazy) or does it make more sense to create our own? Must weigh pros and cons, though off the top of my head I would rather use firebase or another similar service.
 11. I'm sure their are more and that this will change to prioritize mobile use.
+12. react-router-dom
 
 ## Features
 1. Voice recognition speech to text support through Google's Cloud Speech API. Child will repeat the prompted sentence which will be matched to a predefined answer. (**Priority High**)
@@ -68,13 +69,8 @@ This will need to be filled out more as we progress. With my current knowledge b
 * Node map of Frontend: (Input png pic of node map)
 
 ## Notes
-  * To run your aoo on IOS:
-   cd /Users/Nferner/Desktop/readingCorner/PropertyFinder
-   react-native run-ios
-   or
-   Open ios/PropertyFinder.xcodeproj in Xcode
-   Hit the Run button
-  * To run your app on Android:
-   cd /Users/Nferner/Desktop/readingCorner/PropertyFinder
-   Have an Android emulator running (quickest way to get started), or a device connected
-   react-native run-android
+* React v4 changed some functionality, but once learned was easily implemented.
+
+## Installation
+
+1. Note quite sure what this looks like yet. 
