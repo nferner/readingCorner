@@ -15,6 +15,12 @@ class User extends Component {
           <h2>
             LETS LEARN
           </h2>
+          <div id="sttWrapper">
+            <div id="sttBox">
+              <p>A place where what is spoken on the page</p>
+            </div>
+            <button>Start</button>
+          </div>
         </div>
       </div>
     );

@@ -15,7 +15,7 @@ const Routes = () => {
     <Router>
       <div>
         <ul id="navBarList">
-          <li className="link"><Link to="/home">Home</Link>
+          <li className="link"><Link to="/home">Home </Link>
           </li>
           <li className="link">
             <Link to="/register">Register</Link>

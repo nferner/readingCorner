@@ -2,3 +2,14 @@ body{
   background-color: pink;
   color: black;
 }
+#sttWrapper{
+  height: 10rem;
+  width: 15rem;
+  background-color: white;
+  border: black thick solid;
+  margin-left: 10rem;
+}
+#sttBox{
+  background-color: lightblue;
+
+}

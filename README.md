@@ -73,4 +73,4 @@ This will need to be filled out more as we progress. With my current knowledge b
 
 ## Installation
 
-1. Note quite sure what this looks like yet. 
+1. Note quite sure what this looks like yet.
